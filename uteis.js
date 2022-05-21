@@ -1,3 +1,5 @@
+// Javascript para controles uteis.
+
 /*Controla um TabControl*/
 function openCode(evt, tabName) {
   var i, tabcontent, tablinks;
